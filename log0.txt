@@ -1,0 +1,38 @@
+./20140402语料库/2书面语语料/1academic paper/1education/英语专业建设2.out
+./20140402语料库/2书面语语料/1academic paper/1education/社会学教育改革3.out
+./20140402语料库/2书面语语料/1academic paper/2engineering/工程造价.out
+./20140402语料库/2书面语语料/1academic paper/2engineering/太阳能热泵.out
+./20140402语料库/2书面语语料/1academic paper/2engineering/工程土木连续变温3.out
+./20140402语料库/2书面语语料/1academic paper/3humanities/humanities1.out
+./20140402语料库/2书面语语料/1academic paper/3humanities/humanities7.out
+./20140402语料库/2书面语语料/1academic paper/6natural science/生物猪链球菌4.out
+./20140402语料库/2书面语语料/1academic paper/4maths/maths1.out
+./20140402语料库/2书面语语料/1academic paper/4maths/maths7.out
+./20140402语料库/2书面语语料/2news/1editorials/2economy/扶贫.out
+./20140402语料库/2书面语语料/2news/1editorials/3education and science/规范小孩教育.out
+./20140402语料库/2书面语语料/2news/1editorials/6sports/话题奥运.out
+./20140402语料库/2书面语语料/2news/2news report/3political/21.out
+./20140402语料库/2书面语语料/2news/2news report/4society/42.out
+./20140402语料库/2书面语语料/2news/2news report/2financial/15.out
+./20140402语料库/2书面语语料/3fiction/3科幻小说/球3.out
+./20140402语料库/2书面语语料/3fiction/3科幻小说/宇宙3.out
+./20140402语料库/2书面语语料/4non-fiction/3official/1white paper/白28.out
+./20140402语料库/2书面语语料/4non-fiction/3official/1white paper/1.out
+./20140402语料库/2书面语语料/4non-fiction/3official/1white paper/互联网状况3.out
+./20140402语料库/2书面语语料/4non-fiction/3official/1white paper/白12.out
+./20140402语料库/2书面语语料/4non-fiction/3official/1white paper/白42.out
+./20140402语料库/2书面语语料/4non-fiction/1biographies and essays/1biography/29.out
+./20140402语料库/2书面语语料/4non-fiction/1biographies and essays/1biography/30.out
+./20140402语料库/2书面语语料/4non-fiction/1biographies and essays/2essay/散文 张爱玲 更衣记 2.out
+./20140402语料库/2书面语语料/4non-fiction/1biographies and essays/2essay/散文 贾平凹 我不是个好儿子 .out
+./20140402语料库/2书面语语料/4non-fiction/2magazine/3health/姿势调整一些酸痛.out
+./20140402语料库/2书面语语料/4non-fiction/2magazine/3health/练瑜伽.out
+./20140402语料库/2书面语语料/4non-fiction/2magazine/1economy/中印加强经济合作.out
+./20140402语料库/2书面语语料/4non-fiction/2magazine/5sports/网球组合.out
+./20140402语料库/2书面语语料/4non-fiction/2magazine/5sports/邹市明.out
+./20140402语料库/2书面语语料/4non-fiction/2magazine/4politics/巴西，两毛钱引发游行.out
+./20140402语料库/2书面语语料/4non-fiction/4popular lore/神话传说/1.out
+./20140402语料库/1口语语料/3北京话/33.out
+./20140402语料库/1口语语料/3北京话/24.out
+./20140402语料库/1口语语料/3北京话/36.out
+./20140402语料库/1口语语料/2talk show/2鲁豫有约/39.out

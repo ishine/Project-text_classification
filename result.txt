@@ -1,0 +1,11 @@
+
+2332 samples (2/3 for training, 1/3 for testing), 110 features (reduced to 104)
+
+Accuracies of four methods:
+Linear regression: 83.38%
+Logistic regression: 93.43%
+Max-margin classifier: 96.36%
+k-nearest neighbors (k = 1): 97.55%
+
+
+Accuracy of random guess is 1/9*100%=11.11%.

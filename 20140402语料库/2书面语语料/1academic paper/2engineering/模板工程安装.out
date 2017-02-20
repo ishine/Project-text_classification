@@ -1,0 +1,16 @@
+模板/n工程安装/n要点/n及/cc设计/vn计算分析/n刘/nr1辉/ng1/a模板/n安装/v概况/n本/rz工程/n模板/n需/v用量/n较/d大/a，/wd柱/ng用/p组合/n钢模/nr2，/wd框架/n主/ag梁/n底/f用/v木模/nr2，/wd侧/v模/ng用/p钢/n模/ng。/wj
+支撑/v采用/vφ/x48mm/x钢管/n，/wd钢管/n符合国家/n现行/b规范/nA3/x钢/n的/ude1标准/n，/wd方木/n用/v65×100mm/x支柱/n模/ng，/wd用/p钢管/n通/v长/a上下/n卡/n牢/ng，/wd既/c能/v保证/v不/d走/v模/ng，/wd又/d能/v保证/v柱/ng轴线/n不/d位移/v，/wd柱/ng间距/n不大/d于/p600mm/x用/p短/a钢管/n卡/n牢/a。/wj
+梁/nr1板支撑/n用/p满堂/nφ/x48mm/x钢管/n，/wd梁/nr1底/n模/ng用/p木模/nr2，/wd侧/v模/ng用/v小/a钢模/nr2，/wd为/p保证/v梁/nr1柱/ng断面/n尺寸/n，/wd梁/nr1柱/ng内设/v直径/n6./m5mm/x钢筋/n，/wd两端/f焊/v铁板/n打孔/vi拉杆/n，/wd梁/nr1底/n模/ng起/vf拱/v高度/d0./m3％/m。/wj
+2/b模板/n安装/v前/f的/ude1准备/vn工作/vn在/p正式/ad开展/v模板/n的/ude1安装/vn工作/vn前/f，/wd首要/b工作/vn就/d是/vshi进行/vx安全/a技术/n交底/vi，/wd施工/vn技术人员/n要/v熟悉/v模板/n的/ude1施工/vn设计图/n及/cc施工/vn方/d案/x。/wj
+对/p工人/n进行/vx必要/a的/ude1操作/vn指导/vn及/cc安全/an教育/vn工作/vn。/wj
+为了/p确保/v模板/n的/ude1安装/vn的/ude1质量/n，/wd在/p施工/vn现场/s合理/a的/ude1设置/vn测量/vn控制点/n，/wd以/p方便/v开展/v检查/vn工作/vn。/wj
+根据/p模板/n及/cc配件/n的/ude1要求/n对/p其/rz数量/n和/cc规格/n进行/vx检查/vn，/wd有/vyou缺陷/n的/ude1部件/n严禁/v施工/vi在/p工程/n中/f。/wj
+在/p安装/v模板/n前/f还/d需要/v对/p模板/n的/ude1内侧/f涂/v适量/a的/ude1脱模/v剂/q。/wj
+如果/c在/p土壤/n中/f支/q设/v梁/n和/cc楼板/n的/ude1模板/n时/ng，/wd需要/v先/d对/p地面/n进行/vx平整/a然后/c再/d夯实/v。/wj
+在/p安装/v竖/v向/p模板/n的/ude1过程/n中/f，/wd低/a面/n一定/d要/v平整/v且/c坚实度/n满足要求/n，/wd同时/c进行/vx准确/a的/ude1定位/vn，/wd以免/c出现/v偏/a位/q的/ude1不良/a现象/n。/wj
+为/p确保/v竖/v向/p模板/n的/ude1稳固/a性/ng需要/v结合/v工程/n的/ude1实际/a的/ude1情况/n预/d埋/v支撑/v锚固件/n。/wj
+3/n设计/vn计算/vn书/n矩形/n梁/nr1模板/n和/cc顶撑/n计算/v：/wm梁长/nr6./m9m/x，/wd截面/n尺寸/n为/v250×550mm/x，/wd离/v地面/n高/a3./m6m/x，/wd梁/n底/f钢管/n顶撑/n间距/n为/v600mm/x，/wd侧/v模板/n立/v档/ng间距/n为/v600mm/x。/wj
+木材/n用/p红松/n：/wmfe/x=/w10N/x//wmm2fv/x=/w1./m44N/x//wmm2fm/x=/w13N/x//wmm23/x./wj
+1/a底板/n计算/v1/a）/wky底板/n计算/v抗弯强度/n验算/vn计算/vn底/f模/ng承受/v的/ude1荷载/n：/wm梁/n的/ude1底/n模/ng设计/v要/v考虑/v四/m部分/m荷载/n，/wd模板/n自重/a，/wd新/d浇/v砼/x的/ude1重量/n，/wd钢筋/n重量/n及/cc振/vg捣/v砼/x产生/v的/ude1荷载/n，/wd均/d乘/v以/p分/v项/q系数/n1./m2/n，/wd设/v底/f模/ng厚度/n为/v4mm/x。/wj
+底/f模板/n自重/a1./m2×5×0./m04×0./m25/m=/w0./m06kN/x//wm/x砼/x荷重/n1./m2×24×0./m25×0./m55/m=/w3./m96kN/x//wm/x钢筋/n荷重/n1./m2×1./m5×0./m25×0./m55/m=/w0./m25kN/x//wm/x振/v捣/v砼/x荷载/n1./m2×2./m0×0./m25/m=/w0./m6kN/x//wm/x根据/p《/wkz砼/x结构/n工程/n施工/vn及/cc验收/vn规范/n》/wky的/ude1规定/n，/wd设计/v荷载/n值/v要/v乘/v以/pＶ/x=/w0./m90/v的/ude1折/vi减/v系数/n，/wd所以/cq/x=/w0./m9×4./m87/ns=/w4./m38kN/x//wm2/x）/wky验算/vn底/f模/ng抗弯/n承载力/n底/f模/ng下面/f顶撑/n间距/n为/p0./m6m/x，/wd底/f模/ng的/ude1计算/vn简图/n是/vshi一个/mq等/udeng跨/v的/ude1多/ad跨/v连续/a梁/n，/wd因为/c模板/n长度/n有限/a，/wd一般/ad可/v按/p四/m等/udeng跨/v连续/a梁/n计算/vn，/wd查静/nr力/vg计算/v表/vg得/v：/wm3/vg）/wky抗/v剪/v强度/n验算/vn4/ng）/wky挠度/n验算/vn验算/vn挠度/n时/ng，/wd采用/v荷载/n标准值/n，/wd且/c不/d考虑/v振/vg捣/v砼/x的/ude1荷载/n3./m2/n侧/ng模板/n计算/v1/a）/wky侧压力/n计算/vn，/wd梁/nr1的/ude1侧/ng模/ng强度/n计算/vn，/wd要/v考虑/v振/vg捣/v砼/x时/ng产生/v的/ude1荷载/n及/cc新/a浇/v砼/x对/p模板/n侧面/f的/ude1压力/n，/wd并/cc乘/v以/p分/v项/q系数/n1./m2/n。/wj
+采用/v内部/f振/vg捣/v器/ng时/ng，/wd新/d浇筑/v的/ude1普通/a砼/x作用/n于/p模板/n的/ude1最/d大/a侧压力/n：/wm3./m3/n顶撑/n计算/v钢/n楞/dg选择/v直径/n48×3./m5mm/x的/ude1钢管/n，/wd间距/n0./m6m/x，/wd在/p3./m6M/x高度/n的/ude1中间/f纵横/v各/rz设/v两/m道/qv水平/n支撑/vn。/wj
